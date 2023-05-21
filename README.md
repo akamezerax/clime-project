@@ -6,3 +6,5 @@
   
   <p>O projeto foi feito com HTML, CSS e JavaScript com consumo de uma API pública com o propósito de mudar o wallpaper
     background da pagina sempre que ela for atualizada.<p>
+  
+  <img src="https://github.com/akamezerax/clime-project/blob/master/assets/img/PROJETO1.jpg?raw=true"/>
