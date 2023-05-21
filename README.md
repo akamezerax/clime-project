@@ -1,0 +1,8 @@
+<h1>Clima<h1>
+  <br>
+  <br>
+<h2>projeto feito durante a Semana Você Programador, onde é possivel o usúario digitar
+  uma cidade ou estado e lhe é fornecido dados sobre o clima do local<h2>
+  
+  <p>Projeto feito com HTML, CSS e JavaScript com consumo de uma API pública com o propósito de mudar o wallpaper
+    background da pagina sempre que ela for atualizada.<p>
